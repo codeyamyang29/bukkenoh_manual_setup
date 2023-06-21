@@ -48,5 +48,7 @@ Requirements:
 3. Composer 1.9.X || v1.9.3
 
 ### Others...
-__`yarn watch --project sp`__ oldest prototype when there's sp folder
+__`yarn watch --project sp`__ oldest prototype when there's sp folder<br>
+_`yarn build`__ or _`yarn rebuild`__<br>
+_`yarn iconfont`__
 
