@@ -4,8 +4,6 @@
 
 This is after you're qualified or selected as a member of the Bukkenoh Team.
 
-### When Starting Coding 
-
 Requirements:
 1. PHP 8.1.Xv || v8.2.6
 2. Node 8.16.0 || v8.15.0
