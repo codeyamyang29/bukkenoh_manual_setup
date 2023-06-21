@@ -36,3 +36,4 @@ Requirements:
 9. Go to your terminal and make sure you're in the root and in your branch<br>
 10. Input __`cd laravel`__ and install composer __`composer install`__<br>
 11. Create a new terminal and in you root input this __`cd src`__ and install yarn __`install yarn`__<br>
+12. Inside the src folder input __`yarn watch`__
