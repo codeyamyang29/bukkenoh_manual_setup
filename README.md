@@ -15,4 +15,6 @@ Requirements:
 1. Open the "Git Bash" and input __`cd c:laragon/www`__
 2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`__
 3. Go to the root folder of the project<br> ![image info](./setup_root_folder.jpg)
-4. Copy and paste the ".htaccess" file<br> 
+4. Copy and paste the ".htaccess" file<br>
+5. Go to the "laravel" folder of the project<br> ![image info](./img_setup_bukkenoh_env.jpg)
+6. Copy and paste the ".env" file<br>
