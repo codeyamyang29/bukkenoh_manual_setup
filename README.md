@@ -15,3 +15,4 @@ Requirements:
 1. Open the "Git Bash" and input __`cd c:laragon/www`__
 2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`__
 3. Go to the root folder of the project<br> ![image info](./setup_root_folder.jpg)
+4. Copy and paste the ".htaccess" file<br> 
