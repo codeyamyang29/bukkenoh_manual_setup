@@ -13,4 +13,4 @@ Requirements:
 
 ### When Starting Coding 
 1. Open the "Git Bash" and input __`cd c:laragon/www`__
-2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`
+2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`__
