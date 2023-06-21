@@ -38,3 +38,14 @@ Requirements:
 13. You're almost there! Make sure you start the laragon and go to your local, example "http://proto4.bukken1-web.xyz.test/"<br>
 14. "Empty Cache and Hard Reload" your local after you load this "http://proto4.bukken1-web.xyz.test/cmd/makecache"<br>
 15. The '0' will display
+
+## NOTES!!!
+This is for the older prototype.
+Requirements:
+1. PHP 7.2.Xv || v7.2.19
+2. Node 8.16.0 || v8.15.0
+3. Composer 1.9.X || v1.9.3
+
+### Others...
+__`yarn watch --project sp`__ oldest prototype when there's sp folder
+
