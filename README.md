@@ -52,10 +52,10 @@ if it's still not working after "/cmd/makecache"<br>
 ```diff
 
 // default
-" } elseif ('-' === $key[0]) {  "
+- } elseif ('-' === $key[0]) {
 
 // add this
-+ " } elseif (0 === strpos($key, '-')) { "
++ } elseif (0 === strpos($key, '-')) {
 
 ```
 
