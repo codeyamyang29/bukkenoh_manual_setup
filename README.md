@@ -19,7 +19,7 @@ Requirements:
 5. Go to the "laravel" folder of the project<br> ![image info](./img_setup_bukkenoh_env.jpg)
 6. Copy and paste the ".env" file<br>
 7. Open the "Visual Studio Code" and make sure you're in your branch
-8. Edit the ".env" file
+8. Edit the ".env" file and save all the file edited
 ```diff
 
 // default
@@ -33,3 +33,5 @@ Requirements:
 + STORE_ID = 88
 
 ```
+9. Go to your terminal and make sure you're in the root and in your branch<br>
+10. Input __`cd laravel`__ and install composer __`composer install`__<br>
