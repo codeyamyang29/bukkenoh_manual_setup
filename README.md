@@ -49,6 +49,8 @@ Requirements:
 
 ### Oldest prototype
 if it's still not working after "/cmd/makecache"<br>
+go to "ArrayInput.php" this can be found here<br>
+![image info](./img_setup_bukkenoh_arrayinput.jpg)
 ```diff
 
 // default
