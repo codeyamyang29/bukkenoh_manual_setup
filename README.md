@@ -37,3 +37,5 @@ Requirements:
 10. Input __`cd laravel`__ and install composer __`composer install`__<br>
 11. Create a new terminal and in you root input this __`cd src`__ and install yarn __`install yarn`__<br>
 12. Inside the src folder input __`yarn watch`__
+13. You're almost there! Make sure you start the laragon and go to your local, example "http://proto4.bukken1-web.xyz.test/"<br>
+14. "Empty Cache and Hard Reload" your local after you load this "http://proto4.bukken1-web.xyz.test/cmd/makecache"
