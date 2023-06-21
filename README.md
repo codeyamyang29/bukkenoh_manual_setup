@@ -47,6 +47,18 @@ Requirements:
 2. Node 8.16.0 || v8.15.0
 3. Composer 1.9.X || v1.9.3
 
+### Oldest prototype
+if it's still not working after "/cmd/makecache"<br>
+```diff
+
+// default
+" } elseif ('-' === $key[0]) {  "
+
+// add this
++ " } elseif (0 === strpos($key, '-')) { "
+
+```
+
 ### Others...
 __`yarn watch --project sp`__ oldest prototype when there's sp folder<br>
 __`yarn build`__ or __`yarn rebuild`__<br>
