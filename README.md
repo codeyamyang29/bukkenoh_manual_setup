@@ -38,4 +38,5 @@ Requirements:
 11. Create a new terminal and in you root input this __`cd src`__ and install yarn __`install yarn`__<br>
 12. Inside the src folder input __`yarn watch`__
 13. You're almost there! Make sure you start the laragon and go to your local, example "http://proto4.bukken1-web.xyz.test/"<br>
-14. "Empty Cache and Hard Reload" your local after you load this "http://proto4.bukken1-web.xyz.test/cmd/makecache"
+14. "Empty Cache and Hard Reload" your local after you load this "http://proto4.bukken1-web.xyz.test/cmd/makecache"<br>
+15. The '0' will display
