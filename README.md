@@ -18,3 +18,15 @@ Requirements:
 4. Copy and paste the ".htaccess" file<br>
 5. Go to the "laravel" folder of the project<br> ![image info](./img_setup_bukkenoh_env.jpg)
 6. Copy and paste the ".env" file<br>
+7. Open the "Visual Studio Code" and make sure you're in your branch
+8. Edit the ".env" file
+   ```diff
+  // default
+  - USER_ID = 43
+  - STORE_ID = 124
+
+  +ROOT_URL = http://local.proto4.bukken1-web.xyz/
+  // can be found in the project wiki
+  + USER_ID = 123
+  + STORE_ID = 123
+  ```
