@@ -49,6 +49,6 @@ Requirements:
 
 ### Others...
 __`yarn watch --project sp`__ oldest prototype when there's sp folder<br>
-_`yarn build`__ or _`yarn rebuild`__<br>
-_`yarn iconfont`__
+__`yarn build`__ or __`yarn rebuild`__<br>
+__`yarn iconfont`__
 
