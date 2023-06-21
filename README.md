@@ -14,4 +14,4 @@ Requirements:
 ### When Starting Coding 
 1. Open the "Git Bash" and input __`cd c:laragon/www`__
 2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`__
-3. Go to the root folder of the project ![image info](./images/img_wiki_backlog_interface.png)
+3. Go to the root folder of the project ![image info](./setup_root_folder.png)
