@@ -20,13 +20,14 @@ Requirements:
 6. Copy and paste the ".env" file<br>
 7. Open the "Visual Studio Code" and make sure you're in your branch
 8. Edit the ".env" file
-   ```diff
-  // default
-  - USER_ID = 43
-  - STORE_ID = 124
+```diff
 
-  +ROOT_URL = http://local.proto4.bukken1-web.xyz/
-  // can be found in the project wiki
-  + USER_ID = 123
-  + STORE_ID = 123
-  ```
+// default
+- USER_ID = 43
+- STORE_ID = 124
+ 
+// can be found in the project wiki
++ USER_ID = 123
++ STORE_ID = 123
+
+```
