@@ -28,7 +28,7 @@ Requirements:
 
 + ROOT_URL = http://local.proto4.bukken1-web.xyz/
 // can be found in the project wiki
-+ USER_ID = 123
-+ STORE_ID = 123
++ USER_ID = 43
++ STORE_ID = 88
 
 ```
