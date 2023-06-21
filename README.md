@@ -66,3 +66,8 @@ __`yarn watch --project sp`__ oldest prototype when there's sp folder<br>
 __`yarn build`__ or __`yarn rebuild`__<br>
 __`yarn iconfont`__
 
+### Outside notes here!
+JP: https://github.com/hiloki/flocss<br>
+EN: https://github.com/hiloki/flocss/blob/master/README_eng.md<br>
+https://bukkenking.notepm.jp/
+
