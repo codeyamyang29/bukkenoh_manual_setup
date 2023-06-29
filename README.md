@@ -1,4 +1,4 @@
-# bukkenoh_setup
+# bukkenoh_manual_setup
 
 ## BUKKENOH PROTO4
 
