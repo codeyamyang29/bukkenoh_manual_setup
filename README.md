@@ -73,11 +73,19 @@ https://bukkenking.notepm.jp/
 
 ---
 ### Lists of the Bukkenoh Prototypes
-https://bukkenoh.backlog.com/git/SITE<br>
-proto4.bukken1-web.xyz<br>
-proto3.bukken1-web.xyz<br>
-proto2.bukken1-web.xyz<br>
-proto.bukken1-web.xyz<br>
+https://bukkenoh.backlog.com/git/SITE<br><br>
+#### proto4.bukken1-web.xyz
+sample websites<br>
+https://www.peace-fudousan.com/<br>
+requirements<be>
+php = 8.2.* <br>
+#### proto3.bukken1-web.xyz
+sample websites<br>
+https://www.wakuwakufudousan.com/<br>
+requirements<br>
+php = 7.4.* <br>
+#### proto2.bukken1-web.xyz
+#### proto.bukken1-web.xyz
 
 
 
