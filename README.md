@@ -77,7 +77,7 @@ https://bukkenoh.backlog.com/git/SITE<br><br>
 #### proto4.bukken1-web.xyz
 sample websites<br>
 https://www.peace-fudousan.com/<br>
-requirements<be>
+requirements<br>
 php = 8.2.* <br>
 #### proto3.bukken1-web.xyz
 sample websites<br>
