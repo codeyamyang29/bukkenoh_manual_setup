@@ -1,15 +1,27 @@
 # bukkenoh_manual_setup
 
-## BUKKENOH PROTO4
+__THIS IS FOR BUKKENOH TEAM ONLY!__<br>
 
-This is after you're qualified or selected as a member of the Bukkenoh Team.
+__https://bukkenoh.backlog.com/git/SITE__
 
-Requirements:
-1. PHP 8.1.Xv || v8.2.6
-2. Node 8.16.0 || v8.15.0
-3. Composer 2.X.X || v2.5.8
+__REQUIREMENTS:__<br>
+__- This is for proto ver 4__<br>
+proto4.bukken1-web.xyz
+1. PHP 8.1.x || 8.2.6
+2. Node 8.16.0 || 8.15.0
+3. Composer 2.x.x || 2.5.8
 
-### When Starting Coding 
+__- This is for proto ver 3__<br>
+proto3.bukken1-web.xyz
+1. PHP 7.4.x || 7.4.10
+
+__- This is for proto ver 2__<br>
+proto2.bukken1-web.xyz
+
+__- This is for proto ver 1__<br>
+proto.bukken1-web.xyz
+
+__WHEN STARTING CODING__<br> 
 1. Open the "Git Bash" and input __`cd c:laragon/www`__
 2. Inside the "www" input __`git clone https://bukkenoh.backlog.com/git/SITE/proto4.bukken1-web.xyz.git`__
 3. Go to the root folder of the project<br> ![image info](./setup_root_folder.jpg)
@@ -41,13 +53,12 @@ Requirements:
 
 ## NOTES!!!
 This is for the older prototype.<br>
-
 Requirements:
 1. PHP 7.2.Xv || v7.2.19
 2. Node 8.16.0 || v8.15.0
 3. Composer 1.9.X || v1.9.3
 
-### Oldest prototype
+__OLDEST PROTOTYPE__<br>
 if it's still not working after "/cmd/makecache"<br>
 go to "ArrayInput.php" this can be found here<br>
 ![image info](./img_setup_bukkenoh_arrayinput.jpg)
@@ -61,12 +72,12 @@ go to "ArrayInput.php" this can be found here<br>
 
 ```
 
-### Others...
+__OTHERS!__<br>
 __`yarn watch --project sp`__ oldest prototype when there's sp folder<br>
 __`yarn build`__ or __`yarn rebuild`__<br>
 __`yarn iconfont`__
 
-### Outside notes here!
+__OUTSIDE NOTES HERE!__<br>
 JP: https://github.com/hiloki/flocss<br>
 EN: https://github.com/hiloki/flocss/blob/master/README_eng.md<br>
 https://bukkenking.notepm.jp/
