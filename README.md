@@ -7,6 +7,7 @@ __https://bukkenoh.backlog.com/git/SITE__
 __REQUIREMENTS:__<br>
 __- This is for proto ver 4__<br>
 proto4.bukken1-web.xyz
+
 1. PHP 8.1.x || 8.2.6
 2. Node 8.16.0 || 8.15.0
 3. Composer 2.x.x || 2.5.8
@@ -16,7 +17,9 @@ proto3.bukken1-web.xyz
 1. PHP 7.4.x || 7.4.10
 
 __- This is for proto ver 2__<br>
-proto2.bukken1-web.xyz
+proto2.bukken1-web.xyz<br>
+firstwith.jp
+1. PHP 7.2.x || 7.2.19
 
 __- This is for proto ver 1__<br>
 proto.bukken1-web.xyz
