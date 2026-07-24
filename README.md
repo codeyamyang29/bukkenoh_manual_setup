@@ -1,10 +1,10 @@
-# bukkenoh_manual_setup
+# Bukkenoh Manual Setup
 
-__THIS IS FOR BUKKENOH TEAM ONLY!__<br>
+:pushpin: This manual is for Bukkenoh Engineers!
 
 __https://bukkenoh.backlog.com/git/SITE__
 
-__REQUIREMENTS:__<br>
+__Requirements :__<br>
 __- This is for proto ver 4__<br>
 proto4.bukken1-web.xyz
 
